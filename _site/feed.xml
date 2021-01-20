@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-20T00:36:20-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BITN4B</title><subtitle>Write-ups.</subtitle><entry><title type="html">BOXNAME</title><link href="http://localhost:4000/boxname/" rel="alternate" type="text/html" title="BOXNAME" /><published>2021-01-01T00:00:00-05:00</published><updated>2021-01-01T00:00:00-05:00</updated><id>http://localhost:4000/_</id><content type="html" xml:base="http://localhost:4000/boxname/">&lt;p&gt;&lt;a href=&quot;/&quot;&gt;Or not, back to HOME!&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/boxname/#todo&quot;&gt;Skip to topic TODO!&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 class=&quot;fw-300 lh-0&quot; id=&quot;boxname&quot;&gt;BOXNAME&lt;/h1&gt;
+&lt;h4 class=&quot;fs-6 fw-300 lh-0&quot; id=&quot;summary&quot;&gt;SUMMARY&lt;/h4&gt;
+&lt;!-- excerpt-start --&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet tortor eget velit euismod imperdiet. Donec at leo leo. Phasellus sapien sem, porttitor nec placerat ut, euismod nec ipsum. Cras sit amet diam sit amet tellus laoreet congue. Duis maximus ex vitae nibh tincidunt vulputate. Nulla tristique, elit et volutpat elementum, tellus sapien varius dolor, sed fringilla sem ex vel libero. Praesent a risus lacus. Maecenas molestie libero eget metus aliquam feugiat. Morbi nec consequat magna.
+&lt;!-- excerpt-end --&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 class=&quot;fs-6 fw-300 lh-0&quot; id=&quot;reference&quot;&gt;REFERENCE&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 class=&quot;fs-6 fw-300 lh-0&quot; id=&quot;details&quot;&gt;DETAILS&lt;/h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet tortor eget velit euismod imperdiet. Donec at leo leo. Phasellus sapien sem, porttitor nec placerat ut, euismod nec ipsum. Cras sit amet diam sit amet tellus laoreet congue. Duis maximus ex vitae nibh tincidunt vulputate. Nulla tristique, elit et volutpat elementum, tellus sapien varius dolor, sed fringilla sem ex vel libero. Praesent a risus lacus. Maecenas molestie libero eget metus aliquam feugiat. Morbi nec consequat magna.&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Bob'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Bob' to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet tortor eget velit euismod imperdiet. Donec at leo leo. Phasellus sapien sem, porttitor nec placerat ut, euismod nec ipsum. Cras sit amet diam sit amet tellus laoreet congue. Duis maximus ex vitae nibh tincidunt vulputate. Nulla tristique, elit et volutpat elementum, tellus sapien varius dolor, sed fringilla sem ex vel libero. Praesent a risus lacus. Maecenas molestie libero eget metus aliquam feugiat. Morbi nec consequat magna.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 class=&quot;fs-6 fw-300 lh-0&quot; id=&quot;feedback&quot;&gt;FEEDBACK&lt;/h4&gt;
+&lt;p&gt;A paragrah of requesting feedback of what what and leaving contact info.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 class=&quot;fs-6 fw-300 lh-0&quot; id=&quot;todo&quot;&gt;TODO&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;disqus comment box&lt;/li&gt;
+  &lt;li&gt;google analytics&lt;/li&gt;
+  &lt;li&gt;push this whole shit to my github page repo as a template&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Or not, back to HOME! Skip to topic TODO! BOXNAME SUMMARY Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet tortor eget velit euismod imperdiet. Donec at leo leo. Phasellus sapien sem, porttitor nec placerat ut, euismod nec ipsum. Cras sit amet diam sit amet tellus laoreet congue. Duis maximus ex vitae nibh tincidunt vulputate. Nulla tristique, elit et volutpat elementum, tellus sapien varius dolor, sed fringilla sem ex vel libero. Praesent a risus lacus. Maecenas molestie libero eget metus aliquam feugiat. Morbi nec consequat magna.</summary></entry></feed>

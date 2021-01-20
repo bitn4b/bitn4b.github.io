@@ -1,0 +1,24 @@
+## Accessed via {{ site.<var> }} in layout.
+title: BITN4B
+description: >- 
+  Write-ups.
+show_excerpts: true
+excerpt_separator: <!-- excerpt-end -->
+heading_anchors: true
+ga_tracking: 
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
