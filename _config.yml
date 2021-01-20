@@ -5,7 +5,9 @@ description: >-
 show_excerpts: true
 excerpt_separator: <!-- excerpt-end -->
 heading_anchors: true
-ga_tracking: 
+ga_tracking:
+disqus:
+  shortname: bitn4b
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
